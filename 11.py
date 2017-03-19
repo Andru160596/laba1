@@ -1,3 +1,5 @@
+#Напишите генератор frange как аналог range() с дробным шагом. Пример вызова:
+
 def frange(start,end,step):
     #Создаем функцию
     #https://pythonworld.ru/tipy-dannyx-v-python/vse-o-funkciyax-i-ix-argumentax.html
