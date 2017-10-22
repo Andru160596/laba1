@@ -10,5 +10,4 @@ RUB = int(bablo)
 COP = bablo % 1
 COP = round(COP,2) * 100
 
-
 print('Кеш на руках: %s руб %s коп' %(RUB,int(COP)))
